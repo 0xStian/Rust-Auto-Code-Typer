@@ -27,11 +27,11 @@ int main()
         if (GetAsyncKeyState(0x51)) {
 
             buttonpress(number1);
-            Sleep(50);
+            Sleep(100);
             buttonpress(number2);
-            Sleep(50);
+            Sleep(100);
             buttonpress(number3);
-            Sleep(50);
+            Sleep(100);
             buttonpress(number4);
 
         }
