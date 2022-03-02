@@ -7,4 +7,4 @@ Simulates key presses to type your base codes automatically.
 3. Press "Q" to type the code
 
 
-Discord: Stian#8080
+Discord: Stian#7207
